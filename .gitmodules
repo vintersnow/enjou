@@ -1,0 +1,3 @@
+[submodule "pslab"]
+	path = pslab
+	url = https://github.com/GoranM/pslab
